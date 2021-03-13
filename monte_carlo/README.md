@@ -19,6 +19,20 @@ Number of samples : 40000 millions
 Pi : 31415930647
 ```
 
+## Build & run
+Make sure to have all dependencies required (more details bellow).
+
+```sh
+mkdir build
+cd build
+cmake ..
+make
+./MonteCarlo
+```
+
+## Dependencies
+- CMake
+- Cuda
+
 ## Notes
 - The random number generator is made by hand using congruencies.
-
