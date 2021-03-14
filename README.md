@@ -1,5 +1,5 @@
 # Pi Day
-The 14th of March (3/14) is the Pi-Day, this repo celebrates this day by gathering multiple algorithms to compute pi.
+The 14th of March (3/14) is the Pi-Day, this repo celebrates this day by gathering GPU accelerated algorithms to compute pi.
 
 ## Monte Carlo GPU
 [Monte Carlo GPU](monte_carlo) features a heavily parallelized Monte Carlo algorithm to compute pi.
